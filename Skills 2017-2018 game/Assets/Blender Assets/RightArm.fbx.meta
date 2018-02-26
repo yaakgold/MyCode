@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 62d532241317ffd42b968f8448c2b115
+timeCreated: 1513543244
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: //RootNode
+    100004: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.000
+    100006: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.001
+    100008: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.002
+    100010: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.003
+    400000: Cylinder
+    400002: //RootNode
+    400004: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.000
+    400006: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.001
+    400008: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.002
+    400010: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.003
+    2300000: Cylinder
+    2300002: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.000
+    2300004: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.001
+    2300006: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.002
+    2300008: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.003
+    3300000: Cylinder
+    3300002: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.000
+    3300004: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.001
+    3300006: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.002
+    3300008: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.003
+    4300000: Cylinder
+    4300002: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.000
+    4300004: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.001
+    4300006: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.002
+    4300008: Robot Head__Axis_1_ Arm_1__Axis_2_ Arm_2__Axis_3_ Arm_3__Ax.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmBG
+    second: {fileID: 2100000, guid: 4229176241788174b85594c4a41233ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmBandLights
+    second: {fileID: 2100000, guid: 9efc430dbba99d14484d9d5aa2c66c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmCutouts
+    second: {fileID: 2100000, guid: c5bcc7c9c72b6f44f8be1947c7358927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Claw
+    second: {fileID: 2100000, guid: 674a9045a132d0f488985fb4b1b4cc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Claw2
+    second: {fileID: 2100000, guid: e789414061c3b3a45a37a2fc2ccbee01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClawMotor
+    second: {fileID: 2100000, guid: d2d4f748a88bc17498e564b72df2de5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RingBands
+    second: {fileID: 2100000, guid: 7d02bb748ab5a22469d994bd1681f379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoulderCogs(Gold)
+    second: {fileID: 2100000, guid: f86b46db2dcf0504ba1420b71c587e2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoulderProtrusions
+    second: {fileID: 2100000, guid: 87407c700882e8b4cb4af2a95720deec, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
