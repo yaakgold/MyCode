@@ -1,2 +1,3 @@
 # SkillsUSA Game Code
-In here, will be code for you to see, read, and ask any questions. Questions about my code can be sent to my email at yaakovgoldberg007@gmail.com.
+This is the code used for the skillsUSA competition from 2018. The code in here is written by myself and Vivekjyoti Banerjee, who can be contacted at: vivekjyoti24@gmail.com.
+I can be contacted at yaakovgoldberg007@gmail.com
